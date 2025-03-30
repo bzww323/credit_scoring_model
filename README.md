@@ -5,9 +5,9 @@
 Структура проекта:
 
 project
-├── data              # Исходные данные
-├── models            # Обученные модели
-├── src               # Код
+├── data\              # Исходные данные
+├── models\           # Обученные модели
+├── src\               # Код
 │   ├── preprocessing.py
 │   └── train_model.py
 ├── requirements.txt   # Зависимости
